@@ -56,7 +56,7 @@ public class Transformacao2d {
     }
 
     public void multiplicar(double[][] original, double[][] transforma){
-        int p1 = original[0][0] ; 
+        double p1 = original[0][0] ; 
     }
 
     
